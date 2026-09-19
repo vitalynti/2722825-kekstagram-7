@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 // 1. проверка длины строки
 function lengthCheck(line, maxLength) {
   return line.length <= maxLength;
